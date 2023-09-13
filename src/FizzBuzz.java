@@ -32,4 +32,7 @@ class FizzBuzz {
             //i++;
         }
     }
+
+    public static void doFizzBuzz(int i) {
+    }
 }

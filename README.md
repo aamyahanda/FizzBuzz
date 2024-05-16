@@ -300,6 +300,8 @@ if you have local changes to the same files, then there could be conflicting cha
 talk more about that complication later — but just know that since such conflicts can so easily arise git has
 ways to help you resolve such conflicts without too much difficulty.
 
+EDITED
+
 To get your first experience with `git pull`, you can make a quick change to one of the files in your Fizz Buzz repository
 on GitHub.
 
